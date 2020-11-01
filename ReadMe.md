@@ -1,7 +1,14 @@
 # Create GUI Application
 
 [PyQt5 Reference](https://realpython.com/python-pyqt-gui-calculator/)
+[QT Designer](https://www.riverbankcomputing.com/static/Docs/PyQt5/designer.html)
 
+[QT Designer Download](https://build-system.fman.io/qt-designer-download)
+
+File name: Qt Designer Setup.exe
+
+[QT Designer Tutorial](doc/pyqt_tutorial.pdf)
+[QT Designer Manual](https://doc.qt.io/qt-5/qtdesigner-manual.html)
 ```
 pip install pyqt5
 ```
