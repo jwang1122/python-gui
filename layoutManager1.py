@@ -1,5 +1,5 @@
 """
-QHBoxLayout: Horizontal Box Layout
+QHBoxLayout: Vertical Box Layout
 """
 import sys
 
